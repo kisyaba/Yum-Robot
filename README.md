@@ -8,7 +8,7 @@ git clone {{repo}}
 ```
 
 ```bash
-$ npm i --save -dev @types/node
+$ npm i
 ```
 
 ## Running the simulation in the terminal
@@ -22,7 +22,7 @@ cd yumRobot folder
 $ npm run devYum
 ```
 
-### Find commands to test the functionality in commands.txt file 
+### Find commands to test the functionality in {{testRobotCommands.txt}} file 
 
 ## Rules
 * Inputs should all be in uppercase 
