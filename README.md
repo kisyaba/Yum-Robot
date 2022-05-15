@@ -1,12 +1,10 @@
-# Yum-Robot
-
-Hello :) Follow the below guidelines to run this repo
+# Yum-Robot :) Follow the below guidelines to run the project
 
 ## Installation
 Follow the below to get started
 
 ```bash
-Clone the repo
+git clone {repo}
 ```
 
 ```bash
@@ -14,9 +12,14 @@ Run npm i --save -dev @types/node
 ```
 
 ## Running the simulation in the terminal
+ Open the repo folder in your terminal 
 
-```Open the repo folder in your terminal
+```bash 
+cd yumRobot folder
+```
 
-# Run npm run devYum
+```bash 
+Run npm run devYum
+```
 
-## Find commands to run, to test the functionality in commands.txt file 
+## Find commands to test the functionality in commands.txt file 
