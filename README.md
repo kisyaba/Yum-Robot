@@ -31,11 +31,11 @@ $ npm run devYum
 ## Key Notes
 * PLACE: Will position the starting point of the robot
 * FACING: Direction the robot is facing, NORTH,SOUTH,WEST or EAST
-* LEFT / RIGHT: will move the robot 90 degrees left or right from the current position
+* LEFT / RIGHT: Will move the robot 90 degrees left or right from the current position
 
 ### Example
 ```bash
-        - PLACE 0,1,NORTH
-        - LEFT
-        - REPORT
+- PLACE 0,1,NORTH
+- LEFT
+- REPORT
 ```
