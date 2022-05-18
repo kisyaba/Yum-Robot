@@ -12,7 +12,7 @@ $ npm i
 ```
 
 ## Running the simulation in the terminal
- Open the repo folder in your terminal 
+ Open the repo folder in your terminal/cmd/powershell
 
 ```bash 
 cd yumRobot folder
